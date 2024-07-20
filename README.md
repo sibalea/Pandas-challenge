@@ -1,2 +1,2 @@
 # Pandas-challenge
-Adding Module4 assignment done with the expertise of Roseric A.
+Adding Module4 assignment done with the expertise of @rosericazondekon.
